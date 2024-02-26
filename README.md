@@ -91,18 +91,19 @@
 5. test코드 <br/>
 
 - 정수환
+  .
 
 - 엄윤호
-  1. 모든 jsp, css 파일 퍼블리싱
+1. 모든 jsp, css 파일 퍼블리싱
 
 - 손민수
-- 1. kr.co.green.admin.*
-  2. kr.co.green.customerBoard.*
-  3. kr.co.green.notice.*
-  4. kr.co.green.product.*
-  5. kr.co.green.purchase.*
-  6. kr.co.green.common.paging
-  7. kr.co.green.common.validation
+1. kr.co.green.admin.*
+2. kr.co.green.customerBoard.*
+3. kr.co.green.notice.*
+4. kr.co.green.product.*
+5. kr.co.green.purchase.*
+6. kr.co.green.common.paging
+7. kr.co.green.common.validation
 
 
 
