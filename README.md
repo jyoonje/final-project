@@ -103,7 +103,7 @@
           <img src="https://img.shields.io/badge/정윤제-6e34bf?style=flat-round&logo=GitHub&logoColor=white"/>
         <img width="100%" src="https://avatars.githubusercontent.com/u/51091854?v=4"  alt=""/>
         </a>
-        <center>CI/CD</center><br>
+        <center>GitHub, ErdCloud 등 버전 관리</center><br>
         <center>카드발급 CRUD</center><br>
         <center>각종 공통 기능 관리</center><br>
         <center>테스트 코드 관리</center><br>
