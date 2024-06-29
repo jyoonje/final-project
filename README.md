@@ -47,7 +47,7 @@
 - JAVA 11
 - JDK 11
 - lombok 1.18.24
-- Oracle
+- Oracle DataBase
 
 
 <br/><br/>
